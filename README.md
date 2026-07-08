@@ -1,10 +1,10 @@
 <img src="images/neteclogo (2).png" alt="logo" width="300"/>
 
-# COPILOT EN CONTRALORIA CORPORATIVA
+# Contraloria corporativa a Contabilidad corporativa
 
 ## Plataforma de laboratorios
 
-Te damos la bienvenida a la **plataforma de laboratorios** del curso **COPILOT EN CONTRALORIA CORPORATIVA**. Aquí podrás explorar diferentes tecnologías a través de prácticas guiadas. ¡Desarrolla tus habilidades y lleva tus conocimientos al siguiente nivel!
+Te damos la bienvenida a la **plataforma de laboratorios** del curso **Contraloria corporativa a Contabilidad corporativa**. Aquí podrás explorar diferentes tecnologías a través de prácticas guiadas. ¡Desarrolla tus habilidades y lleva tus conocimientos al siguiente nivel!
 
 Este curso especializado transforma las tareas críticas de contraloría mediante el uso de IA generativa. El programa se centra en eliminar procesos manuales repetitivos en Excel, optimizar la programación de macros sin necesidad de ser un experto en código y facilitar la integración de flujos de datos entre Oracle y herramientas de Microsoft para lograr conciliaciones contables automáticas y precisas.
 
