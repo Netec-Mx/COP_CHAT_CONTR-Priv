@@ -1,4 +1,4 @@
-# COPILOT EN CONTRALORIA CORPORATIVA
+# COPILOT EN CONTABILIDAD CORPORATIVA
 
 Este seminario especializado transforma las tareas críticas de contraloría mediante el uso de IA generativa. El programa se centra en eliminar procesos manuales repetitivos en Excel, optimizar la programación de macros sin necesidad de ser un experto en código y facilitar la integración de flujos de datos entre Oracle y herramientas de Microsoft para lograr conciliaciones contables automáticas y precisas.
 
