@@ -1,6 +1,6 @@
 <img src="images/neteclogo (2).png" alt="logo" width="300"/>
 
-# Contraloria corporativa a Contabilidad corporativa
+# Contabilidad corporativa
 
 ## Plataforma de laboratorios
 
